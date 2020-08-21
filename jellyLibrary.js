@@ -1,4 +1,4 @@
-var skuurt = (function() {
+var $ = (function() {
 	'use strict';
 
 	var constructor = function (selector) {
